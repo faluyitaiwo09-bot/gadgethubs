@@ -346,6 +346,14 @@ ul {
     border-bottom: 0;
   }
 
+  .showcase h1 {
+  margin-bottom: 10px;
+  align-items: center;
+  text-align: center;
+  color: #d9d9d9;
+  font-size: 27px;
+}
+
   .home-cards {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -413,6 +421,7 @@ ul {
     .home-cards a {
       font-size: 12px;
     }
+
 
     .footer-links li {
       padding-bottom: 12px;
