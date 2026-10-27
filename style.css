@@ -410,6 +410,10 @@ ul {
       width: 80%;
     }
 
+    .home-cards a {
+      font-size: 12px;
+    }
+
     .footer-links li {
       padding-bottom: 12px;
     }
